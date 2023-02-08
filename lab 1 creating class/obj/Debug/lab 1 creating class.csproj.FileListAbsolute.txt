@@ -1,0 +1,8 @@
+C:\Users\Harthaj\Documents\sait-sem2\oops 2\lab 1 creating class\lab 1 creating class\obj\Debug\lab 1 creating class.csproj.AssemblyReference.cache
+C:\Users\Harthaj\Documents\sait-sem2\oops 2\lab 1 creating class\lab 1 creating class\obj\Debug\lab 1 creating class.csproj.SuggestedBindingRedirects.cache
+C:\Users\Harthaj\Documents\sait-sem2\oops 2\lab 1 creating class\lab 1 creating class\obj\Debug\lab 1 creating class.csproj.CoreCompileInputs.cache
+C:\Users\Harthaj\Documents\sait-sem2\oops 2\lab 1 creating class\lab 1 creating class\bin\Debug\lab 1 creating class.exe.config
+C:\Users\Harthaj\Documents\sait-sem2\oops 2\lab 1 creating class\lab 1 creating class\bin\Debug\lab 1 creating class.exe
+C:\Users\Harthaj\Documents\sait-sem2\oops 2\lab 1 creating class\lab 1 creating class\bin\Debug\lab 1 creating class.pdb
+C:\Users\Harthaj\Documents\sait-sem2\oops 2\lab 1 creating class\lab 1 creating class\obj\Debug\lab 1 creating class.exe
+C:\Users\Harthaj\Documents\sait-sem2\oops 2\lab 1 creating class\lab 1 creating class\obj\Debug\lab 1 creating class.pdb
